@@ -1,4 +1,8 @@
-### Hi, I'm Nilo 🧑‍💻
+### Hi, I'm Nilo 👋
+
+- 🧑‍💻 I'm a software engineering student at Codam Coding College
+- 🔭 I'm currently working on writing a web server in c++
+- 😄 Pronouns: They/Them
 
 <!--
 **nvanwinden/nvanwinden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
