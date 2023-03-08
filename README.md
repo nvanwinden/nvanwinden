@@ -1,7 +1,7 @@
 ### Hi, I'm Nilo
 
 - 💻 I'm a software engineering student at Codam Coding College
-- 🌱 I'm currently learning how to build a full stack app with Vue and NestJS in TypeScript
+- 🌱 I'm currently learning how to build a [full stack app](https://github.com/MichelleJiam/transcendence) with Vue and NestJS in TypeScript
 - 😄 My pronouns are: They/Them
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/n-van-winden/
 
