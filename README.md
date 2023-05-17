@@ -1,7 +1,6 @@
 ### Hi, I'm Nilo
 
-- 💻 I'm a software engineering student at Codam Coding College
-- 🌱 I'm currently building a full stack app with Vue and NestJS in TypeScript
+- 💻 I'm a Backend Engineer Trainee at WeTransfer
 - 😄 My pronouns are: They/Them
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/n-van-winden/
 
