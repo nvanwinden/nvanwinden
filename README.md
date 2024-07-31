@@ -1,6 +1,6 @@
 ### Hi, I'm Nilo
 
-- 💻 I'm a Backend Engineer Trainee at WeTransfer
+- 💻 I'm a Backend Engineer at WeTransfer
 - 😄 My pronouns are: They/Them
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/n-van-winden/
 
