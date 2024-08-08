@@ -1,6 +1,6 @@
 ### Hi, I'm Nilo
 
-- 💻 I'm a Backend Engineer at WeTransfer
+- 💻 I'm a Software Engineer at WeTransfer
 - 😄 My pronouns are: They/Them
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/n-van-winden/
 
@@ -15,7 +15,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 <!--
 **nvanwinden/nvanwinden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
