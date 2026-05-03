@@ -1,6 +1,6 @@
 ### Hi, I'm Nilo
 
-- 📫 Reach me at LinkedIn: https://www.linkedin.com/in/n-van-winden/
+📫 Reach me at LinkedIn: https://www.linkedin.com/in/n-van-winden/
 
 #### Toolkit 🛠️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
