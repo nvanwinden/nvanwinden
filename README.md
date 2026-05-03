@@ -1,6 +1,5 @@
 ### Hi, I'm Nilo
 
-- 😄 My pronouns are: They/Them
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/n-van-winden/
 
 #### Toolkit 🛠️
